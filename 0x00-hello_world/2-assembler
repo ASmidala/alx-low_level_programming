@@ -1,5 +1,2 @@
-#!/bin/bash
+#!bin/bash
 gcc -S $CFILE
-:wq
-cd 2-assembler
-
